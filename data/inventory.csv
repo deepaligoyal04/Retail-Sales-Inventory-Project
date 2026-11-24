@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,stock_quantity,reorder_level
+P001,Notebook,Stationery,45,180,30
+P002,Pen Pack,Stationery,30,350,30
+P003,Water Bottle,Accessories,160,90,30
+P004,Backpack,Accessories,650,55,30
+P005,Desk Lamp,Electronics,420,40,30
+P006,File Folder,Stationery,25,280,30
+P007,Calculator,Electronics,350,65,30
+P008,Mouse,Electronics,280,70,30
+P009,USB Drive,Electronics,390,50,30
+P010,Lunch Box,Accessories,220,75,30
+P011,Sticky Notes,Stationery,35,240,30
+P012,Headphones,Electronics,780,35,30
